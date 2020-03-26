@@ -97,5 +97,4 @@ self-contained: 独立的
 manual: 手工的;手册
 noteworthy: 值得注意的;显著的
 flavor and style: 风格特色
-[/VOCABULARY]
 """

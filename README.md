@@ -6,4 +6,4 @@
  
 It is obvious that there are a lot of errors and inappropriateness in my translation.
 
-In summary, it is just a record of my own personal study, but it may also help you.
+In summary, it is just a record of my own personal study, but it may help you.
